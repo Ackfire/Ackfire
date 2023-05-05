@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Ackfire/Ackfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Melissa, I'm a french :fr: student in computer science at [Epitech](https://www.epitech.eu/en/) :mortar_board: <br>
+I'm interested in new technologies :woman_technologist: basketball :basketball: games :video_game: and movies :movie_camera: <br>
+I also love to build computers :desktop_computer: and space :milky_way:
 
-Here are some ideas to get you started:
+## Here are my main skills !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages :computer:
+
+[![Main languages](https://skillicons.dev/icons?i=c,cpp&perline=9)](https://github.com/tandpfun/skill-icons)
+
+### Tools :wrench:
+[![Main tools](https://skillicons.dev/icons?i=linux,docker,cmake,github,git,idea,vscode,md&perline=9)](https://github.com/tandpfun/skill-icons)
+
+### Media :iphone:
+[![Main media](https://skillicons.dev/icons?i=linkedin,discord,instagram&perline=9)](https://github.com/tandpfun/skill-icons)%    
