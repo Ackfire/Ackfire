@@ -14,4 +14,4 @@ I also love to build computers :desktop_computer: and space :milky_way:
 [![Main tools](https://skillicons.dev/icons?i=linux,docker,cmake,github,git,idea,vscode,md&perline=9)](https://github.com/tandpfun/skill-icons)
 
 ### Media :iphone:
-[![Main media](https://skillicons.dev/icons?i=linkedin,discord,instagram&perline=9)](https://github.com/tandpfun/skill-icons)%    
+[![Main media](https://skillicons.dev/icons?i=linkedin,discord,instagram&perline=9)](https://github.com/tandpfun/skill-icons)
