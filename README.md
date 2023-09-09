@@ -10,11 +10,7 @@ Here is my **Epitech** [GitHub](https://github.com/Melissa-Laget) if you want to
 
 ### Languages :computer:
 
-[![Main languages](https://skillicons.dev/icons?i=c,cpp,python&perline=9)](https://github.com/tandpfun/skill-icons)
-
-#### Learning :books:
-
-[![Main languages](https://skillicons.dev/icons?i=kubernetes&perline=9)](https://github.com/tandpfun/skill-icons)
+[![Main languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react&perline=9)](https://github.com/tandpfun/skill-icons)
 
 
 ### Tools :wrench:
